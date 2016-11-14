@@ -1,0 +1,6 @@
+[submodule "apps"]
+	path = apps
+	url = https://github.com/fahim-ublox/apps
+[submodule "SystemTest"]
+	path = SystemTest
+	url = https://github.com/fahim-ublox/SystemTest
