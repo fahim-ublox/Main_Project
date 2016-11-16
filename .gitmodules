@@ -4,3 +4,9 @@
 [submodule "SystemTest"]
 	path = SystemTest
 	url = https://github.com/fahim-ublox/SystemTest
+[submodule "system"]
+	path = system
+	url = https://github.com/fahim-ublox/system.git
+[submodule "iotConfig"]
+	path = iotConfig
+	url = https://github.com/fahim-ublox/iotConfig.git
